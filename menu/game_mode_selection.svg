@@ -73,12 +73,60 @@
        xlink:href="boton1.png"
        image_selected="flecha_izq2.png"
        y="26.164104"
-       x="1419.7229"
+       x="1029.6873"
        id="image2995"
        height="138"
        width="265"
        type="button"
        action="load"
-       load_menu="game_mode_selection.svg" />
+       load_menu="selection_screen.svg" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
+       xlink:href="boton1.png"
+       image_selected="flecha_izq2.png"
+       load_menu="selection_screen_vscpu.svg"
+       action="load"
+       type="button"
+       width="265"
+       height="138"
+       id="image2984"
+       x="1029.6873"
+       y="168.71519" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
+       xlink:href="boton1.png"
+       image_selected="flecha_izq2.png"
+       y="364.72293"
+       x="1029.6873"
+       id="image2985"
+       height="138"
+       width="265"
+       type="button"
+       action="load"
+       load_menu="selection_screen_training.svg" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
+       xlink:href="boton1.png"
+       load_menu="input_player1.svg"
+       action="load"
+       type="button"
+       width="265"
+       height="138"
+       id="image2991"
+       x="1029.6873"
+       y="523.11304"
+       image_selected="flecha_izq2.png" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
+       xlink:href="boton1.png"
+       image_selected="flecha_izq2.png"
+       y="632.00623"
+       x="1029.6873"
+       id="image3006"
+       height="138"
+       width="265"
+       type="button"
+       action="load"
+       load_menu="input_player2.svg" />
   </g>
 </svg>

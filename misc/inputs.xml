@@ -24,12 +24,9 @@
     <button input="left" map="4" />
     <button input="right" map="6" />
     <button input="up" map="8" />
-    <button input="0" map="a" />
-    <button input="3" map="b" />
-    <button input="4" map="c" />
-    <button input="1" map="d" />
-    <button input="2" map="e" />
-    <button input="5" map="f" />
+    <button input="4" map="a" />
+    <button input="5" map="b" />
+    <button input="2" map="d" />
 </Input>
 <Input player="2" type="joystick" joystick_number="1">
     <button input="down" map="2" />
@@ -38,8 +35,5 @@
     <button input="up" map="8" />
     <button input="2" map="a" />
     <button input="3" map="b" />
-    <button input="1" map="e" />
     <button input="0" map="d" />
-    <button input="4" map="c" />
-    <button input="5" map="f" />
 </Input>
