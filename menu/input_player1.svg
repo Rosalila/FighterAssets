@@ -32,9 +32,9 @@
      inkscape:window-height="746"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="0.71429396"
-     inkscape:cx="776.45887"
-     inkscape:cy="350.29273"
+     inkscape:zoom="0.5050821"
+     inkscape:cx="642.1509"
+     inkscape:cy="471.99526"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,18 +59,19 @@
      id="layer1"
      transform="translate(0,0)">
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/fondo.png"
-       xlink:href="fondo.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/player1_inputs.png"
+       xlink:href="backgrounds/player1_inputs.png"
        width="1366"
        height="768"
        id="image2992"
        x="0"
        y="0"
-       fade_in_initial="100"
+       fade_in_initial="255"
        fade_in_speed="0" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
-       xlink:href="boton1.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/back.png"
+       xlink:href="buttons/back.png"
+       image_selected="buttons/back_selected.png"
        load_menu="test.svg"
        action="exit"
        type="button"
@@ -78,47 +79,25 @@
        height="138"
        id="image2984"
        x="550.5"
-       y="497.44705" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2989"
-       y="529.27625"
-       x="591.92194"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="529.27625"
-         x="591.92194"
-         id="tspan2991"
-         sodipodi:role="line">Back</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2993"
-       y="46.281849"
-       x="623.23438"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="46.281849"
-         x="623.23438"
-         id="tspan2995"
-         sodipodi:role="line">Pause</tspan></text>
+       y="242.043" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
-       xlink:href="boton1.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/input_slash.png"
+       xlink:href="buttons/input_slash.png"
        load_menu="selection_screen_training.svg"
        action="Player1.KeyConfig:a"
        type="button"
        width="265"
        height="138"
        id="image2986"
-       x="1032.2865"
-       y="225.77132"
-       image_selected="flecha_izq2.png" />
+       x="550.5"
+       y="367.29099"
+       image_selected="buttons/input_slash_selected.png" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
-       xlink:href="boton1.png"
-       image_selected="flecha_izq2.png"
-       y="346.54376"
-       x="1032.2865"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/input_overhead.png"
+       xlink:href="buttons/input_overhead.png"
+       image_selected="buttons/input_overhead_selected.png"
+       y="492.539"
+       x="550.5"
        id="image2987"
        height="138"
        width="265"
@@ -126,16 +105,16 @@
        action="Player1.KeyConfig:b"
        load_menu="selection_screen_training.svg" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
-       xlink:href="boton1.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/input_low.png"
+       xlink:href="buttons/input_low.png"
        load_menu="selection_screen_training.svg"
-       action="Player1.KeyConfig:d"
+       action="Player1.KeyConfig:c"
        type="button"
        width="265"
        height="138"
        id="image2989"
-       x="1032.2865"
-       y="455.43695"
-       image_selected="flecha_izq2.png" />
+       x="550.5"
+       y="617.78699"
+       image_selected="buttons/input_low_selected.png" />
   </g>
 </svg>

@@ -32,9 +32,9 @@
      inkscape:window-height="746"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="0.71429396"
-     inkscape:cx="435.0263"
-     inkscape:cy="463.82748"
+     inkscape:zoom="0.5050821"
+     inkscape:cx="515.09686"
+     inkscape:cy="304.2579"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,69 +59,38 @@
      id="layer1"
      transform="translate(0,0)">
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter SDL 2 round 2/menu/fondo.png"
-       xlink:href="fondo.png"
-       width="1366"
-       height="768"
-       id="image2992"
-       x="0"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/pause.png"
+       xlink:href="backgrounds/pause.png"
+       fade_in_speed="0"
+       fade_in_initial="255"
        y="0"
-       fade_in_initial="100"
-       fade_in_speed="0" />
+       x="0"
+       id="image2992"
+       height="768"
+       width="1366" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter SDL 2 round 2/menu/boton1.png"
-       xlink:href="boton1.png"
-       y="269.76129"
-       x="550.5"
-       id="image2995"
-       height="138"
-       width="265"
-       type="button"
-       action="resume"
-       load_menu="test.svg" />
-    <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter SDL 2 round 2/menu/boton1.png"
-       xlink:href="boton1.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/resume.png"
+       xlink:href="buttons/resume.png"
+       image_selected="buttons/resume_selected.png"
        load_menu="test.svg"
-       action="exit"
+       action="resume"
        type="button"
        width="265"
        height="138"
-       id="image2984"
+       id="image2995"
        x="550.5"
-       y="497.44705" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="561.26764"
-       y="303.87888"
-       id="text2985"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2987"
-         x="561.26764"
-         y="303.87888">Resume</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2989"
-       y="529.27625"
-       x="591.92194"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="529.27625"
-         x="591.92194"
-         id="tspan2991"
-         sodipodi:role="line">Back</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2993"
-       y="46.281849"
-       x="623.23438"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="46.281849"
-         x="623.23438"
-         id="tspan2995"
-         sodipodi:role="line">Pause</tspan></text>
+       y="297.47955" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/exit.png"
+       xlink:href="buttons/exit.png"
+       image_selected="buttons/exit_selected.png"
+       y="471.70868"
+       x="550.5"
+       id="image2984"
+       height="138"
+       width="265"
+       type="button"
+       action="exit"
+       load_menu="test.svg" />
   </g>
 </svg>
