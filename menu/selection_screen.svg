@@ -33,7 +33,7 @@
      id="namedview7"
      showgrid="false"
      inkscape:zoom="0.5050821"
-     inkscape:cx="678.63336"
+     inkscape:cx="682.59311"
      inkscape:cy="284.38379"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -59,13 +59,13 @@
      id="layer1"
      transform="translate(0,0)">
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/1player_mode.png"
-       xlink:href="backgrounds/1player_mode.png"
-       y="0"
-       x="0"
-       id="image2992"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/2players_mode.png"
+       xlink:href="backgrounds/2players_mode.png"
+       width="1366"
        height="768"
-       width="1366" />
+       id="image2992"
+       x="0"
+       y="0" />
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2983"

@@ -2,5 +2,5 @@
 <ConfigFile>
     <AILevel level="4" />
     <MatchTime seconds="30" />
-    <Rounds rounds="3" />
+    <Rounds rounds="2" />
 </ConfigFile>
