@@ -33,7 +33,7 @@
      id="namedview7"
      showgrid="false"
      inkscape:zoom="0.5050821"
-     inkscape:cx="932.20274"
+     inkscape:cx="940.12224"
      inkscape:cy="377.92009"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -59,8 +59,8 @@
      id="layer1"
      transform="translate(0,0)">
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/player1_inputs.png"
-       xlink:href="backgrounds/player1_inputs.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/edit_your_character.png"
+       xlink:href="backgrounds/edit_your_character.png"
        width="1366"
        height="768"
        id="image2992"
@@ -78,8 +78,8 @@
        width="265"
        height="138"
        id="image2984"
-       x="200.11928"
-       y="123.25043" />
+       x="188.24001"
+       y="132.49899" />
     <image
        sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/+.png"
        xlink:href="buttons/+.png"
@@ -90,7 +90,7 @@
        height="138"
        id="image2989"
        x="188.24001"
-       y="247.1785"
+       y="254.166"
        image_selected="buttons/+_selected.png" />
     <image
        sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/default.png"
@@ -98,8 +98,8 @@
        text_y="25"
        text_x="350"
        image_selected="buttons/default_selected.png"
-       y="371.10657"
-       x="192.19978"
+       y="375.83401"
+       x="188.24001"
        id="image2988"
        height="138"
        width="265"
@@ -115,8 +115,8 @@
        width="265"
        height="138"
        id="image2990"
-       x="202.09914"
-       y="495.03464"
+       x="188.24001"
+       y="497.50101"
        image_selected="buttons/-_selected.png" />
   </g>
 </svg>

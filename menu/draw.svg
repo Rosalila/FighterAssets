@@ -15,7 +15,7 @@
    height="800"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="draw.svg">
   <defs
      id="defs9" />
@@ -29,11 +29,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="746"
      id="namedview7"
      showgrid="false"
      inkscape:zoom="0.5050821"
-     inkscape:cx="509.30579"
+     inkscape:cx="513.26554"
      inkscape:cy="488.17338"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -58,23 +58,23 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       sodipodi:absref="/home/turupawn/Projects/CodeBlocks/Fighter/menu/draw.png"
-       xlink:href="draw.png"
-       y="0"
-       x="0"
-       id="image2992"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/draw.png"
+       xlink:href="backgrounds/draw.png"
+       width="1280"
        height="800"
-       width="1280" />
+       id="image2992"
+       x="0"
+       y="0" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/CodeBlocks/Fighter/menu/boton1.png"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/boton1.png"
        xlink:href="boton1.png"
-       action="exit"
-       image_selected="boton2.png"
-       type="button"
-       width="594"
-       height="178"
-       id="image2998"
+       y="35.862228"
        x="1306.7183"
-       y="35.862228" />
+       id="image2998"
+       height="178"
+       width="594"
+       type="button"
+       image_selected="boton2.png"
+       action="exit" />
   </g>
 </svg>
