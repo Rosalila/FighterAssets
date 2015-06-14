@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="input.svg">
+   sodipodi:docname="input_player2_keyboard.svg">
   <defs
      id="defs9" />
   <sodipodi:namedview
@@ -33,8 +33,8 @@
      id="namedview7"
      showgrid="false"
      inkscape:zoom="0.5050821"
-     inkscape:cx="944.05656"
-     inkscape:cy="472.93015"
+     inkscape:cx="1513.2964"
+     inkscape:cy="440.31724"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,9 +59,9 @@
      id="layer1"
      transform="translate(0,0)">
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/game_mode_selection.png"
-       xlink:href="backgrounds/game_mode_selection.png"
-       fade_in_speed="5"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/backgrounds/player1_inputs.png"
+       xlink:href="backgrounds/player1_inputs.png"
+       fade_in_speed="0"
        fade_in_initial="255"
        y="0"
        x="0"
@@ -71,62 +71,50 @@
     <image
        sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/back.png"
        xlink:href="buttons/back.png"
-       load_menu="selection_screen_training.svg"
-       action="exit"
-       type="button"
-       width="265"
+       y="242.043"
+       x="550.5"
+       id="image2984"
        height="138"
-       id="image2985"
-       x="188.2399"
-       y="10.831"
+       width="265"
+       type="button"
+       action="exit"
+       load_menu="test.svg"
        image_selected="buttons/back_selected.png" />
     <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/player1_inputs.png"
-       xlink:href="buttons/player1_inputs.png"
-       image_selected="buttons/player1_inputs_selected.png"
-       y="132.49899"
-       x="188.2399"
-       id="image2991"
-       height="138"
-       width="265"
-       type="button"
-       action="load"
-       load_menu="input_player1_gamepad.svg" />
-    <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/player1_inputs.png"
-       xlink:href="buttons/player1_inputs.png"
-       load_menu="input_player1_keyboard.svg"
-       action="load"
-       type="button"
-       width="265"
-       height="138"
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/input_slash.png"
+       xlink:href="buttons/input_slash.png"
+       image_selected="buttons/input_slash_selected.png"
+       y="367.29099"
+       x="550.5"
        id="image2986"
-       x="188.2399"
-       y="277.02994"
-       image_selected="buttons/player1_inputs_selected.png" />
-    <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/player2_inputs.png"
-       xlink:href="buttons/player2_inputs.png"
-       load_menu="input_player2_gamepad.svg"
-       action="load"
-       type="button"
-       width="265"
-       height="138"
-       id="image3006"
-       x="188.2399"
-       y="456.11337"
-       image_selected="buttons/player2_inputs_selected.png" />
-    <image
-       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/player2_inputs.png"
-       xlink:href="buttons/player2_inputs.png"
-       image_selected="buttons/player2_inputs_selected.png"
-       y="580.84558"
-       x="188.2399"
-       id="image2988"
        height="138"
        width="265"
        type="button"
-       action="load"
-       load_menu="input_player2_keyboard.svg" />
+       action="Config.Keyboard.Player2.a"
+       load_menu="selection_screen_training.svg" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/input_overhead.png"
+       xlink:href="buttons/input_overhead.png"
+       load_menu="selection_screen_training.svg"
+       action="Config.Keyboard.Player2.b"
+       type="button"
+       width="265"
+       height="138"
+       id="image2987"
+       x="550.5"
+       y="492.539"
+       image_selected="buttons/input_overhead_selected.png" />
+    <image
+       sodipodi:absref="/home/turupawn/Projects/Fighter/assets/menu/buttons/input_low.png"
+       xlink:href="buttons/input_low.png"
+       image_selected="buttons/input_low_selected.png"
+       y="617.78699"
+       x="550.5"
+       id="image2989"
+       height="138"
+       width="265"
+       type="button"
+       action="Config.Keyboard.Player2.c"
+       load_menu="selection_screen_training.svg" />
   </g>
 </svg>

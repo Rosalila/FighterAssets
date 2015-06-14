@@ -1,0 +1,16 @@
+<StageFile>
+	<StageSize x="2080"/>
+	<Floor position="30"/>
+	<BackLayer frame_duration="40" depth_effect_x="0" depth_effect_y="0" alignment_x="0" alignment_y="390">
+		<frame image_path="sky.png" size_x="2080" size_y="408"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="2" depth_effect_y="2" alignment_x="0" alignment_y="200">
+		<frame image_path="school.png" size_x="2074" size_y="692"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="1" depth_effect_y="1" alignment_x="0" alignment_y="0">
+		<frame image_path="mid_ground.png" size_x="2151" size_y="833"/>
+	</BackLayer>
+	<FrontLayer frame_duration="40" depth_effect_x="1" depth_effect_y="1" alignment_x="-10" alignment_y="0">
+		<frame image_path="trees_both.png" size_x="2091" size_y="1066"/>
+	</FrontLayer>
+</StageFile>
